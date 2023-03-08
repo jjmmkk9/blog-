@@ -1,6 +1,8 @@
 {
   "name": "blog",
+  "homepage": "/blog",
   "version": "0.1.0",
+  "basename" : "",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
